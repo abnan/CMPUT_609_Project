@@ -1,0 +1,2 @@
+sigma,0.1,0.5
+Dynamic decay sigma 0.99; lambda=0.7,-1.0,-1.0
